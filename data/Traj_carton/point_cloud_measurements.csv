@@ -1,0 +1,5 @@
+point_cloud1,point_cloud2,point_cloud3,point_cloud4,point_cloud5,point_cloud6,point_cloud7,point_cloud8,
+"103,037","-2437,349","-2405,846","2319,462","2335,531","865,148","-547,948","-1111,164",X(mm)
+"-96,277","-651,417","1087,593","1743,442","-649,913","-818,589","-431,787","602,8",Z(mm)
+"-0,011","334,043","38,511","156,398","230,194","332,263","31,791","99,869",R_y(°)
+Origin,Corner1,Corner2,Corner3,Corner4,Middle1,Middle2,Middle3,Type

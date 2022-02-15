@@ -1,0 +1,5 @@
+point_cloud1,point_cloud2,point_cloud3,point_cloud4,point_cloud5,point_cloud6,point_cloud7,point_cloud8,point_cloud9,point_cloud10,point_cloud11,
+"101,085","-636,467","-770,602","17,619","767,54","1623,608","2499,016","2260,697","2435,452","1903,745","-2440,862",X(mm)
+"-95,71","215,789","591,036","963,874","653,884","1877,253","707,074","1765,102","-737,157","-1356,051","1233,877",Z(mm)
+0,"34,081","122,116","209,838","261,798","190,248","295,788","135,639","209,709","26,163","145,906",R_y(°)
+Origin,Middle1,Middle2,Middle3,Middle4,Side1,Side2,Corner1,Corner2,Corner3,Corner4,Type
