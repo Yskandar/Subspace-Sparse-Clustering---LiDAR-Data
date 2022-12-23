@@ -1,9 +1,9 @@
 # Project Description
 
-The purpose of this project is to provide an estimation of the position of a robot, using the LiDAR measurements performed by the robot.
-To do so, I apply robust spectral clustering techniques derived from papers referenced below.
-After experimenting the algorithm on simulation data, I conducted several experiments to gather LiDAR data of a convex hull and processed them.
-The LiDAR used to perform the experiments is the RPLiDAR A2.
+The purpose of this project is to provide an estimation of the position of a robot, using the LiDAR measurements taken by the robot. The LiDAR localization process is achieved by performing point-cloud registration.
+To do so, I apply robust spectral clustering techniques derived from papers referenced below to identify clusters of points in the given point clouds. Then, I proceed to interpolate the clusters to deduce the lines in the actual environment. Then, I proceed to match the lines to deduce a rotation and translation.
+After experimenting the algorithm on simulation data, I conducted several experiments to gather LiDAR data of the robot's environment and processed them.
+The LiDAR used in the experiments is the RPLiDAR A2.
 This project is funded by the [Cyber Physical Systems Laboratory, UCLA](https://www.cyphylab.ee.ucla.edu/)
 
 
